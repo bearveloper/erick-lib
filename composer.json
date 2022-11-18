@@ -1,0 +1,14 @@
+{
+    "name": "erick/lib",
+    "autoload": {
+        "psr-4": {
+            "Erick\\Lib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Erick Ruiz de Chavez"
+        }
+    ],
+    "require": {}
+}
